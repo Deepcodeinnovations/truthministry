@@ -32,7 +32,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <p>Apostle STUART AINOMUGISGHA heard a call of God upon his Life to take the Gospel of the Lord around the whole  </p>
+            <p>Apostle STUART AINOMUGISGHA heard a call of God upon his Life to take the Gospel of the Lord around the whole world  </p>
             <hr>
          
           </div>
